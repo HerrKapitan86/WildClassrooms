@@ -1,0 +1,56 @@
+/* style.css */
+body {
+  margin: 0;
+  
+  font-family: Migrena Grotesque Black, monospace;
+}
+
+
+
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://source.unsplash.com/random/1200x600");
+  width: 100%;
+  text-align: center;
+  padding: 200px 0;
+  color: white;
+  background-size: cover;
+}
+
+
+.banner h2 {
+  font-weight: normal;
+}
+
+
+.btn-blue {
+  text-decoration:none;
+  color:white;
+  background-color: #7795f8 
+  padding: 15px 20px;
+  box-shadow: 0.4px.6px.rgba(50,50,93,.11);
+  border-radius: 5px;
+}
+
+
+.card img {
+  width: 200px;
+}
+
+.card {
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(230,230,230, 0.8);
+  padding: 20px 0;
+  margin: 30px;
+  border: 5px solid grey;
+}
+
+.card h2 {
+  color: #7795F8;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+}
+
